@@ -1,4 +1,4 @@
-## <div align="center">Olá me chamo João Pedro e seja bem vindo ao meu perfil!</div>
+## <div align="center">Oi, me chamo João Pedro e seja bem vindo ao meu perfil!</div>
 
 <br>
 <div align="center">
