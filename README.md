@@ -1,4 +1,4 @@
-<h2>😄 Sobre Mim</h2>
+<h1>😄 Sobre Mim</h1>
 
 <br>
 
