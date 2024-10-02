@@ -38,11 +38,15 @@
   </picture>
 </a>
 
-<a href="https://github.com/jpcribeiro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/jpcribeiro/VividWalls">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls" />
 </a>
-<a href="https://github.com/jpcribeiro/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/jpcribeiro/PromoTech">
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech" />
 </a>
-
----
+<a href="https://github.com/jpcribeiro/VividWalls">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls" />
+</a>
+<a href="https://github.com/jpcribeiro/PromoTech">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech" />
+</a>
