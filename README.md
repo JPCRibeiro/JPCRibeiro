@@ -1,21 +1,11 @@
-## <div align="center">Oi, me chamo João Pedro e seja bem vindo ao meu perfil!</div>
+[![GitHub JPCRibeiro](https://img.shields.io/github/followers/JPCRibeiro?label=follow&style=social)](https://github.com/JPCRibeiro)
+[![LinkedIn JPCRibeiro](https://img.shields.io/badge/follow-%40JPCRibeiro-1DA1F2?logo=linkedin&style=social)](https://www.linkedin.com/in/jpcribeiro)
 
-<br>
-<div align="center">
-  <a href="https://github.com/jpcribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="JPCR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="JPCR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="JPCR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JPCR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- 👋 Olá, me chamo João Pedro e sou estudante de Engenharia de Software
+- 🌱 Gosto de utilizar @react.js, @next.js, @Vue.js, @javascript, @nodejs, @Python, @Flask, @mysql, @AWS
+- 📫 Como me contatar ... jopedroribeiro9@gmail.com
 
-##
+## Github Profile
 
-<br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JPCRibeiro/count.svg" /></p>
-
-![snake gif](https://github.com/JPCRibeiro/JPCRibeiro/blob/output/github-contribution-grid-snake.svg)
+[![JPCRibeiro's github stats](https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/jpcribeiro/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
