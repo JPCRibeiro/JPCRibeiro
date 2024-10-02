@@ -6,7 +6,7 @@
 
 
 - 👋 Olá, meu nome é João Pedro e sou estudante de Engenharia de Software
-- 🌱 Gosto de utilizar @react.js, @next.js, @Vue.js, @javascript, @nodejs, @Python, @Flask, @mysql, @AWS
+- 🌱 Gosto de utilizar @react.js, @next.js, @vue.js, @javascript, @nodejs, @python, @flask, @mysql, @aws
 
 ## Github Profile
 
