@@ -39,14 +39,29 @@
 </a>
 
 <a href="https://github.com/jpcribeiro/VividWalls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls&description_lines_count=1&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"  
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls&description_lines_count=1&theme=github_light&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
+    />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
+  </picture>
 </a>
+
 <a href="https://github.com/jpcribeiro/PromoTech">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech" />
-</a>
-<a href="https://github.com/jpcribeiro/VividWalls">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls" />
-</a>
-<a href="https://github.com/jpcribeiro/PromoTech">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech&description_lines_count=1&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"  
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech&description_lines_count=1&theme=github_light&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
+    />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
+  </picture>
 </a>
