@@ -20,7 +20,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=false&include_all_commits=true&locale=pt-br&v=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
   </picture>
 </a>
 
@@ -34,7 +34,7 @@
       srcset="https://gwithub-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_light&hide_border=true&layout=compact&include_all_commits=true&count_private=false&locale=pt-br"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
   </picture>
 </a>
 
