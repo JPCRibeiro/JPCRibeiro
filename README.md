@@ -10,7 +10,7 @@
 
 ## Github Stats
 
-[<img height="195em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>](https://github.com/jpcribeiro/)
+[<img height="195em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&v=1"/>](https://github.com/jpcribeiro/)
 [<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>](https://github.com/jpcribeiro/)
 
 ---
