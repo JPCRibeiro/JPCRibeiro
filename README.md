@@ -12,26 +12,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&v=1"
+    srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&v=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=true&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=false&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_light&hide_border=true&layout=compact&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_light&hide_border=true&layout=compact&include_all_commits=true&count_private=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
 </picture>
 
 ---
