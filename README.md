@@ -1,4 +1,4 @@
-<h1>😄 Sobre Mim</h1>
+<h2>😄 Sobre Mim</h2>
 
 <br>
 
@@ -11,7 +11,7 @@
 - 🌱 Atualmente estou aprendendo tecnologias de nuvem e de back-end
 - ⚡ Adoro tecnologia e essa tem sido a parte central para minha motivação para aprender.
 
-<h2>📊 GitHub Profile</h2>
+<h2>📊 GitHub Stats</h2>
 
 <a href="https://github.com/jpcribeiro">
   <picture>
@@ -41,7 +41,7 @@
   </picture>
 </a>
 
-<h2>💻 Tech Stack</h2>
+<h2>💻 Tecnologias</h2>
 
 <br>
 
