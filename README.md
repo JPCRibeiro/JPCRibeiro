@@ -10,28 +10,49 @@
 
 <h2>GitHub Stats</h2>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&v=1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=false&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
-</picture>
+<a href="https://github.com/jpcribeiro/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&icon_color=1973d1&locale=pt-br&v=1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=false&include_all_commits=true&locale=pt-br&v=1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
+  </picture>
+</a>
+<a href="https://github.com/jpcribeiro/github-readme-stats">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false&locale=pt-br"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://gwithub-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_light&hide_border=true&layout=compact&include_all_commits=true&count_private=false&locale=pt-br"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
+  </picture>
+</a>
 
-<picture>
+<a href="https://github.com/jpcribeiro/github-readme-stats">
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_light&hide_border=true&layout=compact&include_all_commits=true&count_private=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
-</picture>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
+</a>
+<a href="https://github.com/jpcribeiro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/jpcribeiro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/jpcribeiro/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ---
