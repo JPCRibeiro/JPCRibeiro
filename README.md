@@ -38,10 +38,6 @@
 </a>
 
 <a href="https://github.com/jpcribeiro/github-readme-stats">
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
 </a>
 <a href="https://github.com/jpcribeiro/convoychat">
