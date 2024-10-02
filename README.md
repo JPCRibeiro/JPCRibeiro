@@ -14,3 +14,15 @@
 [<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>](https://github.com/jpcribeiro/)
 
 ---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_light&"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
