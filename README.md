@@ -10,7 +10,7 @@
 
 <h2>GitHub Stats</h2>
 
-<a href="https://github.com/jpcribeiro/github-readme-stats">
+<a href="https://github.com/jpcribeiro">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&icon_color=1973d1&locale=pt-br&v=1"
@@ -23,7 +23,8 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
   </picture>
 </a>
-<a href="https://github.com/jpcribeiro/github-readme-stats">
+
+<a href="https://github.com/jpcribeiro">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false&locale=pt-br"
@@ -35,13 +36,6 @@
     />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
   </picture>
-</a>
-
-<a href="https://github.com/jpcribeiro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
-</a>
-<a href="https://github.com/jpcribeiro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpcribeiro&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/jpcribeiro/github-readme-stats">
