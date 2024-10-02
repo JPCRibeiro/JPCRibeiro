@@ -6,7 +6,8 @@
 
 
 - 👋 Olá, meu nome é João Pedro e sou estudante de Engenharia de Software
-- 🌱 Gosto de utilizar @react.js, @next.js, @vue.js, @javascript, @nodejs, @python, @flask, @mysql, @aws
+- 🌱 Atualmente estou aprendendo tecnologias de nuvem e back-end empresarial
+- ⚡ Adoro tecnologia e essa tem sido a parte central para minha motivação para aprender.
 
 <h2>📊 GitHub Profile</h2>
 
@@ -35,34 +36,6 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
-  </picture>
-</a>
-
-<a href="https://github.com/jpcribeiro/VividWalls">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls&description_lines_count=1&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"  
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=VividWalls&description_lines_count=1&theme=github_light&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
-    />
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
-  </picture>
-</a>
-
-<a href="https://github.com/jpcribeiro/PromoTech">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech&description_lines_count=1&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"  
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpcribeiro&repo=PromoTech&description_lines_count=1&theme=github_light&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
-    />
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro" />
   </picture>
 </a>
 
