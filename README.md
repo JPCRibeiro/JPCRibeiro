@@ -10,7 +10,7 @@
 - 🌱 Atualmente estou aprendendo tecnologias de nuvem e de back-end
 - ⚡ Adoro tecnologia e essa tem sido a parte central para minha motivação para aprender.
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub</h2>
 
 <a href="https://github.com/jpcribeiro">
   <picture>
