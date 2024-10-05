@@ -15,11 +15,11 @@
 <a href="https://github.com/jpcribeiro">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&icon_color=1973d1&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&icon_color=1973d1&locale=pt-br&v=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=false&include_all_commits=true&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_light&hide_border=true&count_private=false&include_all_commits=true&locale=pt-br&v=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
