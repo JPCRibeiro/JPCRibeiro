@@ -14,7 +14,7 @@
 <a href="https://github.com/jpcribeiro">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&icon_color=1973d1&locale=pt-br&v=1"
+      srcset="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&icon_color=1973d1&locale=pt-br&v=2"
       media="(prefers-color-scheme: dark)"
     />
     <source
