@@ -1,7 +1,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1973d1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcribeiro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-19a66d?style=for-the-badge&logo=todoist&logoColor=white)](https://jpcribeiro-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-19a66d?style=for-the-badge&logo=todoist&logoColor=white)](https://jpcribeiro.vercel.app)
 
 - 👋 Olá, meu nome é João Pedro e sou estudante de Engenharia de Software
 - 🌱 Atualmente estou aprendendo tecnologias de nuvem e de back-end
