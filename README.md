@@ -3,10 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1973d1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcribeiro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-19a66d?style=for-the-badge&logo=todoist&logoColor=white)](https://jpcribeiro.vercel.app)
 
-- 👋 Olá, meu nome é João Pedro e sou estudante de Engenharia de Software
-- 🌱 Atualmente estou aprendendo tecnologias de nuvem e de back-end
-- ⚡ Adoro tecnologia e essa tem sido a parte central para minha motivação para aprender.
-
 <h2>📊 GitHub</h2>
 
 <a href="https://github.com/jpcribeiro">
