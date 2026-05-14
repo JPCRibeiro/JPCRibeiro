@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1973d1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcribeiro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-19a66d?style=for-the-badge&logo=todoist&logoColor=white)](https://jpcribeiro.vercel.app)
 
+<!--
 <a href="https://github.com/jpcribeiro">
   <picture>
     <source
@@ -16,6 +17,7 @@
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jpcribeiro&show_icons=true" />
   </picture>
 </a>
+-->
 
 <a href="https://github.com/jpcribeiro">
   <picture>
