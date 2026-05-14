@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1973d1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcribeiro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-19a66d?style=for-the-badge&logo=todoist&logoColor=white)](https://jpcribeiro.vercel.app)
 
-<h2>📊 GitHub</h2>
-
 <a href="https://github.com/jpcribeiro">
   <picture>
     <source
