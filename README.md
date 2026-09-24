@@ -11,7 +11,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/273658202942341120?v=2)](https://dev.discordprofiles.me/openspotify/273658202942341120)
 
 Desenvolvedor fullstack com foco em backend (Java e Spring Boot) e frontend (React e TypeScript). Estudante de Engenharia de Software finalizando a graduação.
-- Focado em **Java, Spring Boot** e arquitetura de aplicações
+- **Java & Spring Boot | React & TypeScript** e arquitetura de aplicações
 - Construindo e mantendo projetos em produção na **AWS**
 - Sempre estudando boas práticas, **DDD** e design de sistemas
 
